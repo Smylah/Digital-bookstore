@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Digital-bookstore/static/css/main.073c9b0a.css",
+    "main.js": "/Digital-bookstore/static/js/main.ba2baa66.js",
+    "static/media/logo.svg": "/Digital-bookstore/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Digital-bookstore/index.html",
+    "main.073c9b0a.css.map": "/Digital-bookstore/static/css/main.073c9b0a.css.map",
+    "main.ba2baa66.js.map": "/Digital-bookstore/static/js/main.ba2baa66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ba2baa66.js"
+  ]
+}
